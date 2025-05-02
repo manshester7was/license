@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "username": "Milano",
+    "password": "012605143210",
+    "hwid": "00:1A:7D:DA:71:13",
+    "expires": "2025-06-01",
+    "status": "active"
+  }
+]
