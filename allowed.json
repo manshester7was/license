@@ -11,10 +11,10 @@
         "hwid": "B895CDE6-F355-C62B-2CE7-4AE6E2648BEB",
         "expires": "2025-05-31"
     },
-    {
-        "username": "test",
-        "password": "0000",
-        "hwid": "B895CDE6-F355-C62B-2CE7-4AE6E2648BEB",
-        "expires": "2025-05-31"
-    }
-]
+  {
+  "username": "test",
+  "password": "0000",
+  "hwid": "B89B5CDE-F355-6C28-2CE7-4A6E2E648BEB",
+  "expires": "2025-05-31",
+  "status": "active"
+}
