@@ -3,14 +3,7 @@
     "username": "test",
     "password": "0000",
     "hwid": "00:1A:7D:DA:71:13",
-    "expires": "2025-06-30",
-    "status": "active"
-  },
-  {
-    "username": "milano",
-    "password": "1234",
-    "hwid": "00:1A:7D:DA:71:13",
-    "expires": "2025-07-01",
+    "expires": "2025-05-31",
     "status": "active"
   }
 ]
