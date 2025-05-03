@@ -12,5 +12,12 @@
     "hwid": "00:1A:7D:DA:71:13",
     "expires": "2035-06-02",
     "status": "active"
+  },
+  {
+    "username": "teros",
+    "password": "0000",
+    "hwid": "2C:8D:B1:9D:B8:44",
+    "expires": "2025-06-02",
+    "status": "active"
   }
 ]
