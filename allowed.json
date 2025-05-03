@@ -5,5 +5,12 @@
     "hwid": "00:1A:7D:DA:71:13",
     "expires": "2025-06-07",
     "status": "active"
+  },
+  {
+    "username": "milano",
+    "password": "555666",
+    "hwid": "00:1A:7D:DA:71:13",
+    "expires": "2035-06-02",
+    "status": "active"
   }
 ]
